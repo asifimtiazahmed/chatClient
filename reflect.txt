@@ -1,0 +1,13 @@
+/**********************************************
+ Workshop #9
+ Course: JAC444 - Summer 2020
+ Last Name:Ahmed
+ First Name:Asif I.
+ ID: 138408174
+ Section:NAA
+ This assignment represents my own work in accordance with Seneca Academic Policy.
+ Signature
+ Date: August 8th 2020
+ **********************************************/
+
+The ServerApplication in the server package needs to be initiated and then a port is to be selected. Then the ClientApplicaation is to be started and name, host and port number need to be provided. Then the program can be tested. Overall it was a great experience with network connections.
